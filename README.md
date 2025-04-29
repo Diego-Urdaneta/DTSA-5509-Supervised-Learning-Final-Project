@@ -1,0 +1,1 @@
+This project applies supervised machine learning techniques to predict the presence of heart disease based on patient clinical data. The dataset used comes from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Heart+Disease), and includes a mix of categorical and continuous variables describing patient conditions.
